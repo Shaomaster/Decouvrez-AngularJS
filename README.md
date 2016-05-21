@@ -4,7 +4,7 @@
 Historique
 AngularJS est né en 2009 dans les locaux de Google. Deux développeurs du nom de Brad Green et Shyam Seshadri commençaient sérieusement à déprimer devant leur projet appelé "Google Feedback". Une immense frustration les envahissait au fur et à mesure que leur code grandissait. Celui-ci comptait approximativement 17 000 lignes à ce moment-là. Autant de lignes de pur front-end  qui sont intestables et donc difficilement maintenables.
 
-<i>Concept du framework AngularJS<i>
+<b>Concept du framework AngularJS</b>
 
 Angular est construit autour de concepts clés sur lesquels nous reviendront largement au cours de ce tuto. Comprenez bien que Shyam Seshadri, lorsqu'il créa Angular, n'a rien inventé. Il n'a fait qu'utiliser à bon escient des concepts et des bonnes pratiques incontournables dans le monde du développement web actuel.
 
